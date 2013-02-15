@@ -1,0 +1,17 @@
+{
+  "name": "restful-benchmarking",
+  "version": "0.0.1",
+  "description": "Simple module to benchmark different REST libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": "",
+  "keywords": [
+    "REST",
+    "restify",
+    "hapi"
+  ],
+  "author": "jabclab",
+  "license": "MIT"
+}
