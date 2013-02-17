@@ -6,7 +6,10 @@
   "scripts": {
     "test": "test"
   },
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jabclab/rest-benchmarking.git"
+  },
   "keywords": [
     "REST",
     "restify",
