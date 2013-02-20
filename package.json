@@ -2,8 +2,8 @@
   "name": "restful-benchmarking",
   "version": "0.0.1",
   "description": "Simple module to benchmark different REST libraries",
-  "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "test"
   },
   "repository": {
@@ -20,6 +20,7 @@
   "dependencies": {
     "hapi": "~0.13.2",
     "express": "~3.1.0",
-    "restify": "~2.2.1"
+    "restify": "~2.2.1",
+    "nodeload": "~0.4.0"
   }
 }
